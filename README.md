@@ -13,7 +13,6 @@ All vehicle data is fetched dynamically from a backend service, and user request
 ### Frontend
 - React
 - Material UI
-- React Router
 
 ### Backend
 - Java
