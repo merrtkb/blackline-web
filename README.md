@@ -6,6 +6,7 @@ The project is designed as a vehicle showcase and request platform following an 
 Users can browse vehicle models, view detailed information about each vehicle, and submit a request for a selected vehicle.  
 All vehicle data is fetched dynamically from a backend service, and user requests are stored persistently in a database.
 
+---
 
 ## Technologies Used
 
@@ -22,6 +23,7 @@ All vehicle data is fetched dynamically from a backend service, and user request
 ### Database
 - PostgreSQL
 
+---
 
 ## Project Features
 
@@ -32,6 +34,7 @@ All vehicle data is fetched dynamically from a backend service, and user request
 - REST API–based frontend-backend communication
 - Clear separation of frontend, backend, and database layers
 
+---
 
 ## Project Structure
 
@@ -40,6 +43,7 @@ SourceCode/
 ├── backend
 └── database
 
+---
 
 ## How to Run the Project
 
