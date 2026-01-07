@@ -3,7 +3,6 @@
 Blackline is a full-stack web application designed as a vehicle showcase and request platform.
 The application follows an e-commerce–style structure, allowing users to explore vehicles in detail and submit requests efficiently.
 
-Users can browse vehicle models, view detailed information about each vehicle, and submit a request for a selected vehicle.  
 All vehicle data is fetched dynamically from a backend service, and user requests are stored persistently in a database.
 
 ---
